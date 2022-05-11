@@ -8,7 +8,7 @@ cedulas = 0
 atual = 50
 
 while True:
-    if atual <= valor:
+    if valor >= atual:
         valor -= atual
         cedulas += 1
     else:
