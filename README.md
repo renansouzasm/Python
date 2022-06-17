@@ -14,13 +14,23 @@
 ## While
 | Name | Short description |
 | ------------------------------------ | ------------------------------------ |
-| 01-Acumulador | Uma etrutura que imprime vários valores e no final imprime o valor total da soma entre eles. |
-| 02-Números | Um contador que imprime números de 50 a 100. |
-| 03-Foguete | Contagem regressiva para o lançamento de um foguete. |
-| 04-Ímpares | Imprime números de 1 até o valor que o usuário solicitar, mas apenas os ímpares. |
-| 05-Salário | Recebe o valor de um salário, e calcula seu aumento conforme a porcentagem com o passar dos anos. |
-| 06-Fatorial | Recebe um número do usuário e mostra seu fatorial. |
-| 07-Termos | Programa que apresenta o número de termos que o usuário solicitar. |
+| 01-Soma | Recebe números que o usuário fornece, e mostra a soma total entre eles se for solicitado. |
+| 02-Cédulas | Mostra a quantidade de cédulas de cada nota necessaria para chegar ao valor de entrada do usuário. |
+| 03-Pontos | Programa que conta os pontos de acordo com a resposta. |
+| 04-Média | Calcula a média aritimética de cinco notas digitadas pelo usuário. |
+| 05-Fatorial | Recebe um número do usuário e mostra seu fatorial. |
+| 06-Tabuada | Imprime as tabuadas de 1 a 10. |
+| 07-Fibonacci | Estrutura que mostra uma sequência de números de acordo com a tabéla de fibonacci. |
+
+## Calculadora de Binários
+| Name | Short description |
+| ------------------------------------ | ------------------------------------ |
+| Calculadora de Binários | Recebe números binários digitados pelo usuário e realiza operações aritméticas entre eles. |
+
+## Conversor de bases
+| Name | Short description |
+| ------------------------------------ | ------------------------------------ |
+| Conversor de bases | Recebe um número fornecido pelo usuário e o converte para Binário, Octal e Hexadecimal. |
 
 <!--
 ## projeto
