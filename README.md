@@ -28,7 +28,7 @@
 | 06-Tabuada | Imprime as tabuadas de 1 a 10. |
 | 07-Fibonacci | Estrutura que mostra uma sequência de números de acordo com a tabéla de fibonacci. |
 
-## <h2 id="caluculadora-de-binarios">Calculadra de Binários</h2>
+## <h2 id="calculadora-de-binarios">Calculadoraa de Binários</h2>
 | Name | Short description |
 | ------------------------------------ | ------------------------------------ |
 | Calculadora de Binários | Recebe números binários digitados pelo usuário e realiza operações aritméticas entre eles. |
