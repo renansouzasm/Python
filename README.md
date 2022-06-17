@@ -6,7 +6,7 @@
 - <a href="#calculadora-de-binarios">Calculadora de Binários</a>
 - <a href="#conversor-de-bases">Conversor de bases</a>
 
-<h2 id="for">For</h2>
+## <h2 id="for">For</h2>
 | Name | Short description |
 | ------------------------------------ | ------------------------------------ |
 | 01-Acumulador | Uma etrutura que imprime vários valores e no final imprime o valor total da soma entre eles. |
@@ -17,7 +17,7 @@
 | 06-Fatorial | Recebe um número do usuário e mostra seu fatorial. |
 | 07-Termos | Programa que apresenta o número de termos que o usuário solicitar. |
 
-<h2 id="while">While</h2>
+## <h2 id="while">While</h2>
 | Name | Short description |
 | ------------------------------------ | ------------------------------------ |
 | 01-Soma | Recebe números que o usuário fornece, e mostra a soma total entre eles se for solicitado. |
@@ -28,14 +28,14 @@
 | 06-Tabuada | Imprime as tabuadas de 1 a 10. |
 | 07-Fibonacci | Estrutura que mostra uma sequência de números de acordo com a tabéla de fibonacci. |
 
-<h2 id="caluculadora-de-binarios">Calculadra de Binários</h2>
+## <h2 id="caluculadora-de-binarios">Calculadra de Binários</h2>
 | Name | Short description |
 | ------------------------------------ | ------------------------------------ |
 | Calculadora de Binários | Recebe números binários digitados pelo usuário e realiza operações aritméticas entre eles. |
 
 <a href="#banner">⬆️</a>
 
-<h2 id="conversor-de-bases">Conversor de bases</h2>
+## <h2 id="conversor-de-bases">Conversor de bases</h2>
 | Name | Short description |
 | ------------------------------------ | ------------------------------------ |
 | Conversor de bases | Recebe um número fornecido pelo usuário e o converte para Binário, Octal e Hexadecimal. |
