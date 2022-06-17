@@ -1,4 +1,10 @@
-<img src="https://user-images.githubusercontent.com/101893896/174397408-67107495-4821-424c-bc3e-2342e035119f.png" alt="Banner React" width="100%">
+<img src="https://user-images.githubusercontent.com/101893896/174397408-67107495-4821-424c-bc3e-2342e035119f.png" alt="Banner React" id="banner" width="100%">
+
+# Tópicos
+- <a href="https://github.com/RenanSouz/Aulas_Python/edit/main/README.md#for">For</a>
+- <a href="https://github.com/RenanSouz/Aulas_Python/edit/main/README.md#while">While</a>
+- <a href="https://github.com/RenanSouz/Aulas_Python/edit/main/README.md#calculadora-de-binários">Calculadora de Binários</a>
+- <a href="https://github.com/RenanSouz/Aulas_Python/edit/main/README.md#conversor-de-bases">Conversor de bases</a>
 
 ## For
 | Name | Short description |
@@ -27,10 +33,14 @@
 | ------------------------------------ | ------------------------------------ |
 | Calculadora de Binários | Recebe números binários digitados pelo usuário e realiza operações aritméticas entre eles. |
 
+<a href="https://github.com/RenanSouz/Aulas_Python/edit/main/README.md#tópicos">⬆️</a>
+
 ## Conversor de bases
 | Name | Short description |
 | ------------------------------------ | ------------------------------------ |
 | Conversor de bases | Recebe um número fornecido pelo usuário e o converte para Binário, Octal e Hexadecimal. |
+
+<a href="#banner">⬆️</a>
 
 <!--
 ## projeto
