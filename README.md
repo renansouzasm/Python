@@ -1,10 +1,13 @@
 <img src="https://user-images.githubusercontent.com/101893896/174397408-67107495-4821-424c-bc3e-2342e035119f.png" alt="Banner React" id="banner" width="100%">
 
 # Tópicos
-- <a href="#for">For</a>
-- <a href="#while">While</a>
-- <a href="#calculadora-de-binarios">Calculadora de Binários</a>
-- <a href="#conversor-de-bases">Conversor de bases</a>
+### <a href="#for">For</a>
+
+### <a href="#while">While</a>
+
+### <a href="#calculadora-de-binarios">Calculadora de Binários</a>
+
+### <a href="#conversor-de-bases">Conversor de bases</a>
 
 ## <h2 id="for">For</h2>
 | Name | Short description |
