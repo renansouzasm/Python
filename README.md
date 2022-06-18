@@ -43,7 +43,11 @@
 | ------------------------------------ | ------------------------------------ |
 | Conversor de bases | Recebe um número fornecido pelo usuário e o converte para Binário, Octal e Hexadecimal. |
 
-<a href="#banner">⬆️</a>
+<a href="#banner">⬆![JhhuPointUpGIF](https://user-images.githubusercontent.com/101893896/174415067-8f16cd37-d276-4fd6-937e-90984c1019b0.gif)
+</a>
+
+<a href="#banner"><img src="https://user-images.githubusercontent.com/101893896/174415067-8f16cd37-d276-4fd6-937e-90984c1019b0.gif"/>
+</a>
 
 <!--
 ## projeto
