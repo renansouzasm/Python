@@ -36,8 +36,6 @@
 | ------------------------------------ | ------------------------------------ |
 | Calculadora de Binários | Recebe números binários digitados pelo usuário e realiza operações aritméticas entre eles. |
 
-<a href="#banner">⬆️ go to top</a>
-
 ## <h2 id="conversor-de-bases">Conversor de bases</h2>
 | Name | Short description |
 | ------------------------------------ | ------------------------------------ |
